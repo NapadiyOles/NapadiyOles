@@ -2,7 +2,7 @@
 
 # 3
 
-[![App]](https://bootstrap-slack.herokuapp.com/)
+[![App][Web]](#3)
 
 <!--
 **NapadiyOles/NapadiyOles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
